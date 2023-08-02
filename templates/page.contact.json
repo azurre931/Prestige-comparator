@@ -1,1 +1,1 @@
-{"sections":{"main":{"type":"main-contact","settings":{}}},"order":["main"]}
+{"sections":{"main":{"type":"main-page","settings":{"show_title":true,"page_width":"xs"}},"contact-form":{"type":"contact","settings":{"separate_section_with_border":false,"subheading":"","title":"","content":""}}},"order":["main","contact-form"]}
