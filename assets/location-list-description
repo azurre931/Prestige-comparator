@@ -1,0 +1,26 @@
+
+<li data-markerid="">
+	<div class="list-label"></div>
+	<div class="list-details">
+		<div class="list-content">
+			<div class="loc-name"></div>
+			<div class="loc-addr"></div>
+			
+				<div class="loc-addr2"></div>
+			
+			<div class="loc-addr3">,  </div>
+			
+				<div class="loc-phone"></div>
+			
+			
+				<div class="loc-web"><a href="" target="_blank"></a></div>
+			
+			
+				<div class="loc-dist loc-default-dist"> </div>
+				<div class="loc-dist loc-alt-dist"> </div>
+				<div class="loc-directions"><a href="https://maps.google.com/maps?saddr=&amp;daddr=  ,  " target="_blank">Directions</a></div>
+			
+		</div>
+	</div>
+</li>
+
